@@ -1,0 +1,18 @@
+[
+  {
+    "actionID": 0,
+    "beginFrame": 0,
+    "endFrame": 16,
+    "label": "fight",
+    "position": [
+      {
+        "beginFrame": 0,
+        "endFrame": 16,
+        "x": 702,
+        "x2": 1210,
+        "y": 134,
+        "y2": 646
+      }
+    ]
+  }
+]
